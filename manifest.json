@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "Bare-Bones",
+  "version": "1.0",
+  "description": "A basic Extension",
+  "action": {
+    "default_popup": "basic_toggle.html",
+    "default_icon": "bare-bones_icon.png"
+  },
+  "permissions": ["activeTab"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["background_switcher.js"]
+    }
+  ]
+}
