@@ -1,6 +1,6 @@
 # bare-bones
 
-The bare-bones Chrome Extension set up. This is a solid, simple foundation from which to learn, and on which to build.
+The bare-bones Chrome Extension set-up. A solid, simple foundation to build and learn from.
 
 # Features
 
