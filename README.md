@@ -1,4 +1,8 @@
-# bare-bones
+<p align="center">
+  <img src="https://github.com/Connor56/bare-bones/assets/34070858/1fbdf7f1-a722-46d3-9eb3-b84156377b2c" />
+</p>
+
+# Bare-Bones
 
 The bare-bones Chrome Extension set-up. A solid, simple foundation to build and learn from.
 
