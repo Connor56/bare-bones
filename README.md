@@ -19,6 +19,8 @@ If you're interested in seeing how this extension was built, you can follow my [
 
 Preview:
 <p align="center">
-![image](https://github.com/Connor56/bare-bones/assets/34070858/825ea288-0bb4-44d7-a738-1faf15948d83)
+<a href="https://medium.com/@dr.connor/how-to-build-a-basic-chrome-extension-8e6b054caca6">
+  <img src="https://github.com/Connor56/bare-bones/assets/34070858/825ea288-0bb4-44d7-a738-1faf15948d83">
+</a>
 </p>
 
